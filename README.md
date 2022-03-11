@@ -24,10 +24,11 @@ In order to achieve semantic research, semantic linguistic processing is carried
 The project is accomplished using Java programing language, [Lucene software](https://lucene.apache.org/) for Document Indexing and Searching, [Standford CoreNlp](https://stanfordnlp.github.io/CoreNLP/) for processing both documents and query, and [WordNet](https://wordnet.princeton.edu/) for finding synonym phase during language processing process applied on the query. 
 
 In order to run the project in a local device, you can download the project and open it in a Java IDE, for example: [Apache NetBeans](https://netbeans.apache.org/). As prerequisites, the following should softwares should be downloaded:
-1. Java jdk
-2. [Lucene](https://lucene.apache.org/core/downloads.html)
-3. [Satndford CoreNlp](https://stanfordnlp.github.io/CoreNLP/download.html)
-4. [WordNet](https://wordnet.princeton.edu/download/current-version)
+1. [Java JDK](https://www.oracle.com/java/technologies/downloads/).
+2. [Lucene](https://lucene.apache.org/core/downloads.html).
+3. [Satndford CoreNlp](https://stanfordnlp.github.io/CoreNLP/download.html).
+4. [WordNet](https://wordnet.princeton.edu/download/current-version).
+
 The jar files should be located in the [Jar folder](https://github.com/Nemat-Allah-Aloush/Semantic-Search-Engine/tree/main/Jar).
 
 --- 
