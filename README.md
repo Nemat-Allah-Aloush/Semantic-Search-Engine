@@ -14,7 +14,7 @@ A Semantic Search Engine, written in Java programing language, developed with th
 
 To read a small introduction, please read the [introducary report](https://github.com/Nemat-Allah-Aloush/Semantic-Search-Engine/blob/main/Introductory%20Report.pdf)
 
-The purpose of the project is to develop a semantic search engine in the English language, the search is done within a set of news from the .bbc station, represented in an xml file, that can be found [here](https://github.com/Nemat-Allah-Aloush/Semantic-Search-Engine/blob/main/bbc_rss_feed.xml)
+The purpose of the project is to develop a semantic search engine in the English language, the search is done within a set of news from the .bbc station, represented in an xml file, that can be found [here](https://github.com/Nemat-Allah-Aloush/Semantic-Search-Engine/blob/main/bbc_rss_feed.xml).
 
 In order to achieve semantic research, semantic linguistic processing is carried out either on documents or on the query, and since the query is smaller, the semantic analysis is applied on it. 
 
@@ -27,8 +27,8 @@ In order to run the project in a local device, you can download the project and 
 1. Java jdk
 2. [Lucene](https://lucene.apache.org/core/downloads.html)
 3. [Satndford CoreNlp](https://stanfordnlp.github.io/CoreNLP/download.html)
-4. [WordNet](https://wordnet.princeton.edu/download/current-version)1.stanford-corenlp-3.9.2.jar
-and the jar files should be located in the [Jar folder](https://github.com/Nemat-Allah-Aloush/Semantic-Search-Engine/tree/main/Jar).
+4. [WordNet](https://wordnet.princeton.edu/download/current-version)
+The jar files should be located in the [Jar folder](https://github.com/Nemat-Allah-Aloush/Semantic-Search-Engine/tree/main/Jar).
 
 --- 
 
