@@ -33,3 +33,4 @@ The jar files should be located in the [Jar folder](https://github.com/Nemat-All
 
 --- 
 
+![alt text](https://github.com/Nemat-Allah-Aloush/Semantic-Search-Engine/blob/main/images/SSE%20structure.png "Logo Title Text 1")
