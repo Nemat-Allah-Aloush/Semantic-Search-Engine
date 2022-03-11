@@ -64,4 +64,6 @@ Here we can see some examples of user's queries and the returned results.
 | **women**      | Indian is world's shortest **woman** | Jyoti Amge, ... world's shortest **woman** by Guinness World Records. |
 |                | **Woman** set alight in New York fit  | A man is arrested after a 73-year-old **woman** is ... |
 | **tells** | Riot operation 'flawed' **say** MPs|The operation to police ... a report by the Home Affairs Committee **says**.. |
+||...|
 |  |   Peru 'halts' parole woman's trip  |A US woman on parole in Peru.... **says** she was stopped from leaving the country.     |
+||...|
