@@ -67,3 +67,4 @@ Here we can see some examples of user's queries and the returned results.
 | **tells** | Riot operation 'flawed' **say** MPs|The operation to police ... a report by the Home Affairs Committee **says**.. |
 |  |   Peru 'halts' parole woman's trip  |A US woman on parole in Peru.... **says** she was stopped from leaving the country.     |
 ||...|
+
